@@ -1,0 +1,14 @@
+{
+  "entities": {
+    "congregationData": {
+      "title": "Congregation Data Store",
+      "description": "Stores state for territories, meeting points, conductors, schedules, do not call, and S13 records",
+      "type": "object",
+      "properties": {
+        "data": {
+          "type": "object"
+        }
+      }
+    }
+  }
+}

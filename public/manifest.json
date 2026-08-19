@@ -1,0 +1,24 @@
+{
+  "name": "PrediApp Congregación",
+  "short_name": "PrediApp",
+  "description": "Sistema de Gestión de Territorios, Programa de Predicación, S-13-S y Casas No Pasar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f6f2",
+  "theme_color": "#2c362c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
